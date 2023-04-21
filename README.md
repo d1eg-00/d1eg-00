@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Diego, estudante de Ciencia da Computação 👋
 
 <!--
 **d1eg-00/d1eg-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/d1eg-00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d1eg-00&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+ </div>
