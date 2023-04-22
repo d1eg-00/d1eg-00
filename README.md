@@ -45,4 +45,8 @@ Here are some ideas to get you started:
   
 </div>
 
-<!-- ![snake gif](https://github.com/d1eg-00/d1eg-00/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+
+  ![Snake animation](https://github.com/d1eg-00/d1eg-00/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
