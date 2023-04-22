@@ -38,3 +38,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/diego-fernandes-68271050/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![snake gif](https://github.com/d1eg-00/d1eg-00/blob/output/github-contribution-grid-snake.svg)
