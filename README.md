@@ -31,8 +31,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d1eg-00&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1eg-00&theme=dracula&hide_border=false&&layout=compact"/>
  </div>
-
- ### Linguagens e Tecnologias 🤖   <br>
+    
+---
+    
+ ### Linguagens e Tecnologias 🤖   <br><br>
  
  <div style="display: inline_block" align="center"><br>
  <img align="center" alt="diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,9 +46,9 @@ Here are some ideas to get you started:
  <img align="center" alt="diego-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/> 
  </div>
  
-##
+---
 
-### Redes Sociais e Contatos 🤖   <br>
+### Redes Sociais e Contatos 🤖   <br><br>
 <div align="center"> 
   
   <a href="https://www.instagram.com/fernandes.dieg0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
